@@ -11,3 +11,4 @@ My Python learning journey - Python for Everybody, Coursera
 - ✅ Chapter 3 Quiz: 100%
 - ✅ Chapter 3 Overtime Pay Calculator Assignment: Complete
 - ✅ Chapter 3 Conditional Statement Assignment: Complete
+- ✅ Built hemoglobin level checker (if/elif/else)
