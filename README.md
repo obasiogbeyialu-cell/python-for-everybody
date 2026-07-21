@@ -14,3 +14,4 @@ My Python learning journey - Python for Everybody, Coursera
 - ✅ Built hemoglobin level checker (if/elif/else)
 - ✅ Built patient processing loop (while loop)
 - ✅ Built blood group matcher (for loop, lists)
+- ✅ Built WBC count analyser (lists, for loop, if filter)
