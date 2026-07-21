@@ -13,3 +13,4 @@ My Python learning journey - Python for Everybody, Coursera
 - ✅ Chapter 3 Conditional Statement Assignment: Complete
 - ✅ Built hemoglobin level checker (if/elif/else)
 - ✅ Built patient processing loop (while loop)
+- ✅ Built blood group matcher (for loop, lists)
