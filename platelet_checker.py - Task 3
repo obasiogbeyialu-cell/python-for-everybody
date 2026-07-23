@@ -1,0 +1,9 @@
+plt = int(input("Enter platelet count: "))
+if plt < 50:
+    print("Critical - thrombocytopenia")
+elif plt >= 50 and plt < 150:
+    print("Low - monitor patient")
+elif plt >= 150 and plt <= 400:
+    print("Normal")
+else:
+    print("High - thrombocytosis")
