@@ -1,0 +1,3 @@
+tests = ["FBC", "LFT", "RFT", "Lipid Profile", "Blood Culture"]
+for test in tests:
+    print("Pending:", test)
