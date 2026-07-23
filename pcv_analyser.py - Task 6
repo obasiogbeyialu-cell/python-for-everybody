@@ -1,0 +1,9 @@
+patients = ["P", "Q", "O", "Y", "I", "U"]
+pcv = [22, 90, 34, 23, 36, 40]
+for patient in range(len(patients)):
+    if pcv[patient] < 36:
+        print(patients[patient], "- Anaemia suspected")
+    else:
+        print(patients[patient], "- Normal")
+average = sum(pcv) / len(pcv)
+print("Average PCV:", average)
