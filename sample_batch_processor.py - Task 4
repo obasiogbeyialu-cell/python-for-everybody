@@ -1,0 +1,7 @@
+sample = int(input("How many samples are being processed"))
+count = 1
+while count <= sample: 
+    name = input("Sample ID")
+    print("Processing sample: ", name)
+    count = count + 1
+print("Batch complete")
