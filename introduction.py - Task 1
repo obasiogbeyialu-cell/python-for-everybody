@@ -1,0 +1,5 @@
+Name = input("Full name")
+Profession = input("Profession")
+YOE = input("Years of experience")
+City = input("City")
+print("Welcome!", Name+", a",Profession,"with", YOE, "years of experience, based in", City)
