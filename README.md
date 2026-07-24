@@ -1,4 +1,4 @@
-# python-for-everybody
+i# python-for-everybody
 My Python learning journey - Python for Everybody, Coursera 
 ## Progress
 - ✅ Chapter 1 Programming Concepts Check-In: Complete
@@ -21,3 +21,4 @@ My Python learning journey - Python for Everybody, Coursera
 - ✅ Task 4: Sample Batch Processor (while loop)
 - ✅ Task 5: Lab Tests List (for loop, lists)
 - ✅ Task 6: PCV Analyser (lists, for loop, if/else, average)
+- ✅ String methods: find, slicing, strip, upper, lower, capitalize, title, replace
